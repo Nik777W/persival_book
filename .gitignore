@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.venv/
+persival_book/__pycache__
+persival_book/.DS_Store
+.DS_Store
+persival_book/asgi.py
+persival_book/wsgi.py
+.idea/
+db.sqlite3
