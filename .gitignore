@@ -7,3 +7,5 @@ persival_book/asgi.py
 persival_book/wsgi.py
 .idea/
 db.sqlite3
+primera_app/__pycache__/
+primera_app/migrations/__pycache__/
